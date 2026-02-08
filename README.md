@@ -2,7 +2,7 @@
 Selitä lyhyesti:
 Mitä tarkoittaa navigointi Jetpack Composessa:
 - Navigointi tarkoittaa sitä, miten käyttäjä siirtyy eri näkymien (screenien) välillä sovelluksessa.
-  Jetpack Compose Navigation -kirjastoa käytetään single-activity-sovelluksissa,
+  Jetpack Compose Navigation-kirjastoa käytetään single-activity-sovelluksissa,
   joissa koko navigaatio hoidetaan composable-funktioiden avulla
   
 Mitä ovat NavHost ja NavController:
